@@ -55,21 +55,15 @@ The model was trained and validated using a dataset publicly available on [Kaggl
 
 - Users can upload CT scan images.
 - The model analyzes and outputs the cancer prediction with a graphical confidence score.
-- Hosted on Hugging Face: [Visit App](#) *(Insert your Hugging Face URL here)*
+- Hosted on Hugging Face: [Visit App](#) *https://huggingface.co/spaces/prnshjh/epics203*
 
 ## Team
 
 Developed by:
 - Priyanshu Kumar
 - Rimjhim Jha
-- Vairag Kamleshbhai Akbari
-- Dilman
-- Aditi Bathla
 - Maulic Gola
-- Rachit Gupta
-- Ishaan Verma
-- Abhinav Chauhan
-- Pranjal Singh
+
 
 **Mentor**: Dr. Bhupendra Panchal
 
